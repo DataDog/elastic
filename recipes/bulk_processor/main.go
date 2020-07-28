@@ -25,8 +25,8 @@ import (
 
 	"github.com/google/uuid"
 
-	"github.com/olivere/elastic"
-	"github.com/olivere/elastic/config"
+	"github.com/DataDog/elastic"
+	"github.com/DataDog/elastic/config"
 )
 
 func main() {

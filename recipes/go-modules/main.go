@@ -17,7 +17,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/olivere/elastic"
+	"github.com/DataDog/elastic"
 )
 
 func main() {

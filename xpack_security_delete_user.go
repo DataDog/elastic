@@ -12,7 +12,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/olivere/elastic/uritemplates"
+	"github.com/DataDog/elastic/uritemplates"
 )
 
 // XPackSecurityDeleteUserService delete a user by its name.

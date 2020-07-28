@@ -11,7 +11,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/olivere/elastic/uritemplates"
+	"github.com/DataDog/elastic/uritemplates"
 )
 
 // IndicesGetTemplateService returns an index template.

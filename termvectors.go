@@ -11,7 +11,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/olivere/elastic/uritemplates"
+	"github.com/DataDog/elastic/uritemplates"
 )
 
 // TermvectorsService returns information and statistics on terms in the

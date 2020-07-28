@@ -1,4 +1,4 @@
-module github.com/olivere/elastic/recipes
+module github.com/DataDog/elastic/recipes
 
 go 1.14
 
@@ -6,7 +6,7 @@ require (
 	github.com/aws/aws-sdk-go v1.33.5
 	github.com/go-kit/kit v0.10.0 // indirect
 	github.com/google/uuid v1.1.1
-	github.com/olivere/elastic v7.0.18
+	github.com/DataDog/elastic v7.0.18
 	github.com/olivere/env v1.1.0
 	github.com/smartystreets/go-aws-auth v0.0.0-20180515143844-0c1422d1fdb9
 	github.com/uber/jaeger-client-go v2.25.0+incompatible

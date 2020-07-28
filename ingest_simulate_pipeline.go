@@ -12,7 +12,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/olivere/elastic/uritemplates"
+	"github.com/DataDog/elastic/uritemplates"
 )
 
 // IngestSimulatePipelineService executes a specific pipeline against the set of

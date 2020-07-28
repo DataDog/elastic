@@ -12,7 +12,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/olivere/elastic/uritemplates"
+	"github.com/DataDog/elastic/uritemplates"
 )
 
 // XPackSecurityPutRoleMappingService create or update a role mapping by its name.

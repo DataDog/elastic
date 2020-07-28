@@ -20,7 +20,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/olivere/elastic"
+	"github.com/DataDog/elastic"
 )
 
 const (

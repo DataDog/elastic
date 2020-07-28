@@ -20,7 +20,7 @@ import (
 
 	"github.com/pkg/errors"
 
-	"github.com/olivere/elastic/config"
+	"github.com/DataDog/elastic/config"
 )
 
 const (

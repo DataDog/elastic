@@ -116,7 +116,7 @@
 
 [[projects]]
   digest = "1:863f046754b2bad16c7ea1a6227742261ea762cbcff8bc6589e526cfa7513158"
-  name = "github.com/olivere/elastic"
+  name = "github.com/DataDog/elastic"
   packages = [
     ".",
     "aws",
@@ -249,12 +249,12 @@
     "github.com/mailru/easyjson",
     "github.com/mailru/easyjson/jlexer",
     "github.com/mailru/easyjson/jwriter",
-    "github.com/olivere/elastic",
-    "github.com/olivere/elastic/aws",
-    "github.com/olivere/elastic/aws/v4",
-    "github.com/olivere/elastic/config",
-    "github.com/olivere/elastic/trace/opentracing",
-    "github.com/olivere/elastic/uritemplates",
+    "github.com/DataDog/elastic",
+    "github.com/DataDog/elastic/aws",
+    "github.com/DataDog/elastic/aws/v4",
+    "github.com/DataDog/elastic/config",
+    "github.com/DataDog/elastic/trace/opentracing",
+    "github.com/DataDog/elastic/uritemplates",
     "github.com/olivere/env",
     "github.com/opentracing/opentracing-go",
     "github.com/opentracing/opentracing-go/ext",

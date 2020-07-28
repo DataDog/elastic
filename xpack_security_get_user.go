@@ -12,7 +12,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/olivere/elastic/uritemplates"
+	"github.com/DataDog/elastic/uritemplates"
 )
 
 // XPackSecurityGetUserService retrieves a user by its name.
