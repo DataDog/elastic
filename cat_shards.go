@@ -11,7 +11,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/olivere/elastic/v7/uritemplates"
+	"github.com/olivere/elastic/uritemplates"
 )
 
 // CatShardsService returns the list of shards plus some additional
