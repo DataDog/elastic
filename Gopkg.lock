@@ -115,21 +115,6 @@
   version = "v0.7.2"
 
 [[projects]]
-  digest = "1:863f046754b2bad16c7ea1a6227742261ea762cbcff8bc6589e526cfa7513158"
-  name = "github.com/DataDog/elastic"
-  packages = [
-    ".",
-    "aws",
-    "aws/v4",
-    "config",
-    "trace/opentracing",
-    "uritemplates",
-  ]
-  pruneopts = "UT"
-  revision = "a543f6149a34368976908c24f79b570d89ab29f3"
-  version = "v6.2.34"
-
-[[projects]]
   digest = "1:85e6fab37d21d4ed23fa029b7a8c77c03d3f0bcf231663bef1ed4639cdd019b6"
   name = "github.com/olivere/env"
   packages = ["."]
@@ -249,12 +234,6 @@
     "github.com/mailru/easyjson",
     "github.com/mailru/easyjson/jlexer",
     "github.com/mailru/easyjson/jwriter",
-    "github.com/DataDog/elastic",
-    "github.com/DataDog/elastic/aws",
-    "github.com/DataDog/elastic/aws/v4",
-    "github.com/DataDog/elastic/config",
-    "github.com/DataDog/elastic/trace/opentracing",
-    "github.com/DataDog/elastic/uritemplates",
     "github.com/olivere/env",
     "github.com/opentracing/opentracing-go",
     "github.com/opentracing/opentracing-go/ext",
